@@ -15,7 +15,7 @@ So it will be: where /r c:\ "Microsoft.Office.Interop.Excel.dll"<br>
 ![image](https://github.com/matahino/Excel01/assets/96413690/b1558351-15b0-4213-b8ac-790dfd442d26)<br>
 
 
-Next: Compile this program and library together as found.
+Next: Compile this program and library together as found.<br>
 ![image](https://github.com/matahino/Excel01/assets/96413690/facbb0dc-507c-4269-984f-525ab86caacd)<br>
 Compile using the csc command
 When adding library, /r:Microsoft.Office.Interop.Excel.dll
