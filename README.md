@@ -18,7 +18,11 @@ So it will be: where /r c:\ "Microsoft.Office.Interop.Excel.dll"<br>
 
 
 次:
-見つけら本プログラムとlibraryを合わせて
+見つけら本プログラムとlibraryを合わせてコンパイル
+プログラムとフォルダーのディレクトリーを合わせる。
+![image](https://github.com/matahino/Excel01/assets/96413690/facbb0dc-507c-4269-984f-525ab86caacd)<br>
+cscコマンド使ってコンパイル
+
 
 
 
