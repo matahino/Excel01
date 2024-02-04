@@ -3,12 +3,13 @@ Therefore, I will be performing Excel operations today using only command line w
 
 Create an app at the command prompt: https://github.com/matahino/Windowsforms01/releases/tag/C%231
 
-まずは、Excelをダウンロードしてください。office360からダウンロードできます。<br>
+First, please download Excel. You can download it from Office 365.<br>
 ![image](https://github.com/matahino/Excel01/assets/96413690/739ef333-c371-4409-a8dc-07794760010a)<br>
-ダウンロードしたら今回使うlibraryを探します。libraryとは、プログラミング言語を機械に分かりやすく変換したファイル。内容は、プログラミング言語と同じです。
-今回、探すlibraryは、Microsoft.Office.Interop.Excel.dllです。では、いつもお世話になっているコマンドのwhereコマンドでCドライブを探しましょう。
-式: where /r c:\ 
-これです。c:\ 後ろに今回探したいファイル名を記入します。
-where /r c:\ Microsoft.Office.Interop.Excel.dll
+Once downloaded, we will look for the library we will be using. A library is a file that translates programming languages into a format that is more understandable for machines.<br>
+The content is the same as the programming language. This time, the library we are looking for is Microsoft.Office.Interop.Excel.dll. <br> 
+Now, let's search the C drive with the where command, which we always rely on. <br> 
+The syntax is: where /r c:\. <br>
+After c:\, you enter the name of the file you want to find. <br>
+So it will be: where /r c:\ Microsoft.Office.Interop.Excel.dll.
 
 
