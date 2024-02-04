@@ -24,7 +24,7 @@ command <br>
 csc 3.cs /r:Microsoft.Office.Interop.Excel.dll
 ![image](https://github.com/matahino/Excel01/assets/96413690/f3334f60-fbd9-4c80-9ec4-7601c13fde32)
 When you run the application.
-![image](https://github.com/matahino/Excel01/assets/96413690/ae4d87f8-fc71-4bbb-8885-19ce0338c525)
+![image](https://github.com/matahino/Excel01/assets/96413690/69ee2e5d-8f5d-4d42-9f55-9870eae741c6)
 
 
 
