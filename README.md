@@ -20,7 +20,7 @@ Next: Compile this program and library together as found.<br>
 
 Compile using the csc command<br>
 When adding library  /r:Microsoft.Office.Interop.Excel.dll <br>
-The resulting command<br>
+command<br>
 csc 3.cs /r:Microsoft.Office.Interop.Excel.dll
 ![image](https://github.com/matahino/Excel01/assets/96413690/f3334f60-fbd9-4c80-9ec4-7601c13fde32)
 When you run the application.
