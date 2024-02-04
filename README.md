@@ -17,11 +17,15 @@ So it will be: where /r c:\ "Microsoft.Office.Interop.Excel.dll"<br>
 ![image](https://github.com/matahino/Excel01/assets/96413690/b1558351-15b0-4213-b8ac-790dfd442d26)<br>
 
 
-次:
-見つけら本プログラムとlibraryを合わせてコンパイル
-プログラムとフォルダーのディレクトリーを合わせる。
+Next: Compile this program and library together as found.
 ![image](https://github.com/matahino/Excel01/assets/96413690/facbb0dc-507c-4269-984f-525ab86caacd)<br>
-cscコマンド使ってコンパイル
+Compile using the csc command
+When adding library, /r:Microsoft.Office.Interop.Excel.dll
+The resulting command
+csc 3.cs /r:Microsoft.Office.Interop.Excel.dll
+![image](https://github.com/matahino/Excel01/assets/96413690/f3334f60-fbd9-4c80-9ec4-7601c13fde32)
+When you run the application.
+![image](https://github.com/matahino/Excel01/assets/96413690/ae4d87f8-fc71-4bbb-8885-19ce0338c525)
 
 
 
