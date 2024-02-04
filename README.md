@@ -9,7 +9,7 @@ Once downloaded, we will look for the library we will be using. <br>
 A library is a file that translates programming languages into a format that is more understandable for machines.<br>
 The content is the same as the programming language. This time, the library we are looking for is Microsoft.Office.Interop.Excel.dll. <br> 
 Now, let's search the C drive with the where command, which we always rely on. <br> 
-The syntax is: where /r c:\<br>
+The syntax is: where /r c:\ <br>
 After c:\, you enter the name of the file you want to find. <br>
 So it will be: where /r c:\ "Microsoft.Office.Interop.Excel.dll"<br>
 ![image](https://github.com/matahino/Excel01/assets/96413690/b1558351-15b0-4213-b8ac-790dfd442d26)<br>
