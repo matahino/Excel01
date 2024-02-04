@@ -14,7 +14,8 @@ Now, let's search the C drive with the where command, which we always rely on. <
 The syntax is: where /r c:\ <br>
 After c:\, you enter the name of the file you want to find. <br>
 So it will be: where /r c:\ "Microsoft.Office.Interop.Excel.dll"<br>
-![image](https://github.com/matahino/Excel01/assets/96413690/0e3f1713-2c5b-4fc2-9f55-1bc89445d260)
+![image](https://github.com/matahino/Excel01/assets/96413690/b1558351-15b0-4213-b8ac-790dfd442d26)
+
 
 
 
